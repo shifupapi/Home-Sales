@@ -4,7 +4,7 @@
 
 For this challenge I :
 
-*Imported the necessary PySpark SQL functions.
+Imported the necessary PySpark SQL functions.
 
 Read the home_sales_revised.csv data into a Spark DataFrame.
 
@@ -13,7 +13,7 @@ Created a temporary table called home_sales.
 Answered the following questions using SparkSQL:
 
 
-**What is the average price for a four-bedroom house sold for each year? Round 
+What is the average price for a four-bedroom house sold for each year? Round 
 off your answer to two decimal places.
 
 What is the average price of a home for each year it was built that has 
